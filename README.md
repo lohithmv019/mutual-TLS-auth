@@ -1,4 +1,4 @@
-# mutual-TLS-auth
+# Mutual TLS Authentication
 RUBY client for the mutual TLS authentication
 
 
